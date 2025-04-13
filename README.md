@@ -118,6 +118,3 @@ Organiza el código en torno a objetos, los cuales combinan datos(atributos) y c
 - **Modularidad**: El código se divide en clases y objetos.
 - **Emcapsulamiento**: Los datos y métodos están protegidos dentro de los objetos.
 - **Ideal para sitemas complejos**: Adecuado para aplicaciones escalables y estructuradas.
-
-# LICENCIA DE PUBLICACION 
-
