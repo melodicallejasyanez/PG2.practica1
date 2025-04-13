@@ -7,7 +7,7 @@ calc = Calculadora()
 
 print(calc.sumar(15, 5))
 print(calc.restar(15, 5))
-print(calc.multiplicar(15, 5))
+print(calc.multiplicacion(15, 5))
 print(calc.dividir(15, 5))  
 
 print("Calculadora factorial")
